@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/webslides/webslides#readme",
   "devDependencies": {
-    "archiver": "^2.0.3",
+    "archiver": "^5.3.0",
     "autoprefixer": "^7.1.4",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
